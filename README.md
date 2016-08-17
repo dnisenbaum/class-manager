@@ -1,6 +1,6 @@
-class-manager
+Class Manager Application
 =============
 
-Java application using GUI, different data structures, and algorithms
+This is a Java GUI application using the swing toolkit.
 
-This application was made as part of a project for a "Data Structures and Algorithms" class at Western University.
+This app was made during the course *SE2205 - Data Structures and Algorithms* at Western University.
